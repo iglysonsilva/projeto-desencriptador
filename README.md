@@ -1,4 +1,4 @@
-# Challenge Oracle ONE
+# Projeto Challenge Oracle ONE
 
 ## 📋 Sobre
 Feito com HTML, CSS e Javascript esta aplicação tem por função codificar e decodificar mensagens de texto de maneira simples. Visando a troca de informações com outras pessoas de uma forma segura e divertida.
